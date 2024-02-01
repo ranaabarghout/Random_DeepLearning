@@ -10,22 +10,22 @@ Welcome to the Random Deep Learning Projects repository! This repository contain
 
 ### 2. CNNs for American Sign Language Recognition
 
-- **ASL_Dataset:** [Link](./Random_Deep%20Learning/CNNs%20for%20American%20Sign%20Language%20Recognition/ASL_Dataset)
-- **ASL_Dataset_Processed:** [Link](./Random_Deep%20Learning/CNNs%20for%20American%20Sign%20Language%20Recognition/ASL_Dataset_Processed)
-- **Data:** [Link](./Random_Deep%20Learning/CNNs%20for%20American%20Sign%20Language%20Recognition/Data)
-- **Lab_2_Hand_Gesture Dataset:** [Link](./Random_Deep%20Learning/CNNs%20for%20American%20Sign%20Language%20Recognition/Lab_2_Hand_Gesture%20Dataset)
-- **LAB_2_Hand_Gesture_Recognition.ipynb:** [Link](./Random_Deep%20Learning/CNNs%20for%20American%20Sign%20Language%20Recognition/LAB_2_Hand_Gesture_Recognition.ipynb)
+- **ASL_Dataset:** [LINK](https://github.com/ranaabarghout/Random_DeepLearning/tree/main/CNNs%20for%20American%20Sign%20Language%20Recognition/ASL_Dataset)
+- **ASL_Dataset_Processed:** [LINK](https://github.com/ranaabarghout/Random_DeepLearning/tree/main/CNNs%20for%20American%20Sign%20Language%20Recognition/ASL_Dataset_Processed)
+- **Data:** [LINK](https://github.com/ranaabarghout/Random_DeepLearning/tree/main/CNNs%20for%20American%20Sign%20Language%20Recognition/Data)
+- **Lab_2_Hand_Gesture Dataset:** [LINK](https://github.com/ranaabarghout/Random_DeepLearning/blob/main/CNNs%20for%20American%20Sign%20Language%20Recognition/LAB_2_Hand_Gesture_Recognition.ipynb)
+- **LAB_2_Hand_Gesture_Recognition.ipynb:** [LINK](./Random_Deep%20Learning/CNNs%20for%20American%20Sign%20Language%20Recognition/LAB_2_Hand_Gesture_Recognition.ipynb)
 
 ### 3. GANs for Horse Photos
 
-- **Horse Photos:** [Link](./Random_Deep%20Learning/GANs%20for%20Horse%20Photos/Horse%20Photos)
-- **Lab_3_Generating_Data-Submission.ipynb:** [Link](./Random_Deep%20Learning/GANs%20for%20Horse%20Photos/Lab_3_Generating_Data-Submission.ipynb)
-- **RegressionCNN.png:** [Link](./Random_Deep%20Learning/GANs%20for%20Horse%20Photos/RegressionCNN.png)
+- **Horse Photos:** [LINK](https://github.com/ranaabarghout/Random_DeepLearning/tree/main/GANs%20for%20Horse%20Photos/Horse%20Photos)
+- **Lab_3_Generating_Data-Submission.ipynb:** [LINK](https://github.com/ranaabarghout/Random_DeepLearning/blob/main/GANs%20for%20Horse%20Photos/LAB_3_Generating_Data-Submission.ipynb)
+- **RegressionCNN.png:** [LINK](https://github.com/ranaabarghout/Random_DeepLearning/blob/main/GANs%20for%20Horse%20Photos/RegressionCNN.png)
 
 ### 4. NLP for Spam Detection
 
-- **smsspamcollection:** [Link](./Random_Deep%20Learning/NLP%20for%20Spam%20Detection/smsspamcollection)
-- **LAB_4_Sequential_Data.ipynb:** [Link](./Random_Deep%20Learning/NLP%20for%20Spam%20Detection/LAB_4_Sequential_Data.ipynb)
+- **smsspamcollection:** [LINK](https://github.com/ranaabarghout/Random_DeepLearning/tree/main/NLP%20for%20Spam%20Detection/smsspamcollection)
+- **LAB_4_Sequential_Data.ipynb:** [LINK](https://github.com/ranaabarghout/Random_DeepLearning/blob/main/NLP%20for%20Spam%20Detection/LAB_4_Sequential_Data.ipynb)
 
 ## How to Use
 
