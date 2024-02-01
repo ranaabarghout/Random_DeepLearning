@@ -6,7 +6,7 @@ Welcome to the Random Deep Learning Projects repository! This repository contain
 
 ### 1. Intro to PyTorch
 
-- **LAB_1_ANN_and_PyTorch.ipynb:** [Link](./Random_Deep%20Learning/Intro%20to%20PyTorch/LAB_1_ANN_and_PyTorch.ipynb)
+- **LAB_1_ANN_and_PyTorch.ipynb:** [LINK](https://github.com/ranaabarghout/Random_DeepLearning/blob/main/Intro%20to%20Pytorch/LAB_1_ANN_and_PyTorch.ipynb)
 
 ### 2. CNNs for American Sign Language Recognition
 
